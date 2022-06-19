@@ -8,6 +8,8 @@
 
 coverage
 *.log
+.eslintcache
+
 .gitlab-ci.yml
 
 package-lock.json

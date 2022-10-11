@@ -46,8 +46,8 @@
   "devDependencies": {
     "@types/jest": "^28.1.8",
     "@types/node": "^15.0.1",
-    "@typescript-eslint/eslint-plugin": "^5.36.2",
-    "@typescript-eslint/parser": "^5.36.2",
+    "@typescript-eslint/eslint-plugin": "^5.40.0",
+    "@typescript-eslint/parser": "^5.40.0",
     "esbuild": "^0.15.10",
     "eslint": "^8.23.1",
     "eslint-config-prettier": "^8.5.0",
